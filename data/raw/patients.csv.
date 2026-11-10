@@ -1,1 +1,15 @@
 
+patient_id,age,gender,department,visit_date,diagnosis,treatment_cost,admission_status
+P001,45,Female,Cardiology,2026-01-05,Hypertension,250,Outpatient
+P002,32,Male,Neurology,2026-01-07,Migraine,150,Outpatient
+P003,60,Female,Cardiology,2026-01-10,Heart Disease,1200,Inpatient
+P004,28,Male,Orthopedics,2026-01-12,Fracture,850,Inpatient
+P005,51,Female,General Medicine,2026-01-15,Diabetes,300,Outpatient
+P006,40,Male,Neurology,2026-01-18,Migraine,180,Outpatient
+P007,67,Female,Cardiology,2026-01-20,Hypertension,450,Inpatient
+P008,35,Male,General Medicine,2026-01-22,Fever,100,Outpatient
+P009,55,Female,Orthopedics,2026-01-25,Arthritis,400,Outpatient
+P010,48,Male,Cardiology,2026-01-28,Heart Disease,1500,Inpatient
+P011,29,Female,General Medicine,2026-01-30,Fever,120,Outpatient
+P012,72,Male,Neurology,2026-02-02,Stroke,2000,Inpatient
+
